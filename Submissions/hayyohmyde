@@ -1,0 +1,16 @@
+{
+  "name": "[ILORI ABDULRASHEED]",
+  "img": "[YOUR_IMG_URL]",
+  "email": "[aaailori@gmail.com]",
+  "links": {
+    "website": "[YOUR_WEBSITE_URL]",
+    "linkedin": "https://www.linkedin.com/in/<abdulrasheedilori>",
+    "github": "https://github.com/<hayyohmyde>"
+  },
+  "jobTitle": "[Android Developer]",
+  "location": {
+    "city": "[Nigeria]",
+    "state": "[Lagos]",
+    "country": "[Nigeria]"
+  }
+}
